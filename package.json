@@ -1,0 +1,8 @@
+{
+  "name": "adminSys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wangbinXMU/adminSys.git",
+  "author": "wangbin <1029657709@qq.com>",
+  "license": "MIT"
+}
